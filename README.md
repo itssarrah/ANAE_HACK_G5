@@ -78,3 +78,35 @@ Explorer de nouvelles fonctionnalités pour renforcer l’expérience utilisateu
 **Lien vers le Drive du projet** : [ANAE_Hackathon_group5](#)  
 **[Démonstration vidéo](https://drive.google.com/file/d/1wjg_jwlfW-muGzdvJ2uhVE0guoHod_is/view)**
 
+---
+## Installation et Exécution de l'Application
+
+### Backend (Flask)
+
+1. **Installer les dépendances**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. **Exécuter le serveur Flask:**
+  ```bash
+  flask run
+  ```
+  Par défaut, l'application sera accessible sur http://127.0.0.1:5000/.
+
+### Frontend (React)
+
+1. **Aller dans le dossier du frontend:**
+  ```bash
+  cd frontend
+  ```
+
+2. **Installer les dépendances:**
+  ```bash
+  npm install
+  ```
+
+2. **Démarrer l'application React:**
+  ```bash
+  npm start
+  ```
+L'interface sera accessible sur http://localhost:3000/.
