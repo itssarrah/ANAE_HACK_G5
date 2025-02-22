@@ -8,6 +8,15 @@ L’objectif est de favoriser l’innovation en excluant les activités existant
 Nous avons traité un dataset multilingue (arabe et français), appliqué des techniques avancées de prétraitement, de normalisation et de filtrage basé sur des embeddings, puis utilisé des algorithmes de clustering pour regrouper les activités similaires.
 
 ---
+![image](https://github.com/user-attachments/assets/610e8ac1-ff5d-4fb3-af0b-ae75f3e60b30)
+![image](https://github.com/user-attachments/assets/60469aa0-8cba-4682-9e8f-98fbbcbd5218)
+![image](https://github.com/user-attachments/assets/3d1583fe-caff-4f9b-a301-3460267c2e11)
+![image](https://github.com/user-attachments/assets/928a884d-da9e-4fd4-915f-493fa8b4262a)
+![image](https://github.com/user-attachments/assets/5c0ce8aa-38c2-4ba5-92b7-87d7cb007cbb)
+
+
+
+
 
 ## **Dataset**
 Le dataset se compose de descriptions d’activités de startup classées en quatre sous-ensembles :
