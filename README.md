@@ -5,11 +5,11 @@
 Notre projet vise à développer un système basé sur l'IA pour filtrer et catégoriser automatiquement les propositions d'activités de startup soumises par des auto-entrepreneurs.  
 L’objectif est de favoriser l’innovation en excluant les activités existantes et commerciales et en mettant en avant de nouvelles idées entrepreneuriales.
 
-Nous avons traité un jeu de données multilingue (arabe et français), appliqué des techniques avancées de prétraitement, de normalisation et de filtrage basé sur des embeddings, puis utilisé des algorithmes de clustering pour regrouper les activités similaires.
+Nous avons traité un dataset multilingue (arabe et français), appliqué des techniques avancées de prétraitement, de normalisation et de filtrage basé sur des embeddings, puis utilisé des algorithmes de clustering pour regrouper les activités similaires.
 
 ---
 
-## **Jeu de Données**
+## **Dataset**
 Le dataset se compose de descriptions d’activités de startup classées en quatre sous-ensembles :
 **AA (Arabe-Arabe)** : Activités uniquement en arabe.
 **FF (Français-Français)** : Activités uniquement en français.
@@ -40,7 +40,7 @@ Validation par un administrateur pour s’assurer de la pertinence des catégori
 ---
 
 ## **Résultats**
-Un jeu de données affiné contenant uniquement des idées de startup uniques.
+Un dataset affiné contenant uniquement des idées de startup uniques.
 Une catégorisation automatique des activités via clustering.
 Un tableau de bord administrateur permettant la validation des catégories et la gestion des soumissions.
 
